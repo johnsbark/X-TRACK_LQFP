@@ -6,4 +6,5 @@ X-track的lqfp版本，将原先的AT32F40ACGU7更换为AT32F403ACGT7（即STM32
 ![1626970879579 jpg](https://user-images.githubusercontent.com/22606145/126675080-a4306fdd-40eb-498b-b788-4767517e41be.jpg)
 ![9F54E02A8FF0067CA164CD360D0CCE11](https://user-images.githubusercontent.com/22606145/126675325-b29ca6bf-5b27-42a8-be5b-b546829c5d8c.jpg)
 ![2DA712428BFF5B875828A8FB9A96AAC1](https://user-images.githubusercontent.com/22606145/126675353-4889a1bf-c2f8-4c87-9307-81280d53ea30.jpg)
-![4E6962C22489A60C33952FBE9EC1ECB1](https://user-images.githubusercontent.com/22606145/126675363-745e8dc1-db30-4c3f-90ab-05183f69318f.jpg)
+![QQ图片20210723003431](https://user-images.githubusercontent.com/22606145/126675481-624ab595-de1d-410d-9447-8f4ed1dc7945.jpg)
+
